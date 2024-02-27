@@ -1,0 +1,27 @@
+<bold>Schedule :: Science :: Chemistry</bold><new>
+><bold>1.</bold> ><it>Chemical><g> </g><uline>Reaction</uline> and><g> </g><uline>Equations</uline></it><new>
+<t><g>+ </g><blue><highlight><bold> MCQS </bold></highlight></blue>
+<t><g>+ </g><red><highlight=cyan><bold> Case Based Study </bold></highlight></black>
+<t><g>+ </g><red><highlight=cyan><bold> Short Answer Type and Long Answer Type Questions </bold></highlight></blue><new>
+><bold>2.</bold> ><it>Acid><g> </g><uline>Bases</uline> and><g> </g><uline>Salts</uline></it><new>
+<t><g>+ </g><yellow><highlight=green><bold> MCQS </bold></highlight></blue>
+<t><g>+ </g><green><highlight=magenta><bold> Case Based Study </bold></highlight></black>
+<t><g>+ </g><green><highlight=magenta><bold> Short Answer Type and Long Answer Type Questions </bold></highlight></blue><new>
+<bold>Schedule :: Science :: Biology</bold><new>
+><bold>1.</bold> ><it>Life><g> </g><uline>Process</uline></it><new>
+<t><g>+ </g><blue><highlight><bold> MCQS </bold></highlight></blue>
+<t><g>+ </g><red><highlight=cyan><bold> Case Based Study </bold></highlight></black>
+<t><g>+ </g><red><highlight=cyan><bold> Short Answer Type and Long Answer Type Questions </bold></highlight></blue><new>
+><bold>2.</bold> ><it>Reproduction</it><new>
+<t><g>+ </g><yellow><highlight=green><bold> MCQS </bold></highlight></blue>
+<t><g>+ </g><green><highlight=magenta><bold> Case Based Study </bold></highlight></black>
+<t><g>+ </g><green><highlight=magenta><bold> Short Answer Type and Long Answer Type Questions </bold></highlight></blue><new>
+<bold>Schedule :: Science :: Physics</bold><new>
+><bold>1.</bold> ><it><uline>Electricity</uline></it><new>
+<t><g>+ </g><blue><highlight><bold> MCQS </bold></highlight></blue>
+<t><g>+ </g><red><highlight=cyan><bold> Case Based Study </bold></highlight></black>
+<t><g>+ </g><red><highlight=cyan><bold> Short Answer Type and Long Answer Type Questions </bold></highlight></blue><new>
+><bold>2.</bold> ><it><uline>Light</uline></it><new>
+<t><g>+ </g><yellow><highlight=green><bold> MCQS </bold></highlight></blue>
+<t><g>+ </g><green><highlight=magenta><bold> Case Based Study </bold></highlight></black>
+<t><g>+ </g><green><highlight=magenta><bold> Short Answer Type and Long Answer Type Questions </bold></highlight></blue>
